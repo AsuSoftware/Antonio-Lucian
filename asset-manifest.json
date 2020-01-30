@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Antonio-Lucian/static/css/main.e951a516.chunk.css",
+    "main.js": "/Antonio-Lucian/static/js/main.4f59724f.chunk.js",
+    "main.js.map": "/Antonio-Lucian/static/js/main.4f59724f.chunk.js.map",
+    "runtime-main.js": "/Antonio-Lucian/static/js/runtime-main.250b8af2.js",
+    "runtime-main.js.map": "/Antonio-Lucian/static/js/runtime-main.250b8af2.js.map",
+    "static/js/2.64ccf118.chunk.js": "/Antonio-Lucian/static/js/2.64ccf118.chunk.js",
+    "static/js/2.64ccf118.chunk.js.map": "/Antonio-Lucian/static/js/2.64ccf118.chunk.js.map",
+    "index.html": "/Antonio-Lucian/index.html",
+    "precache-manifest.c91790dd83c63cba35167ed30776d741.js": "/Antonio-Lucian/precache-manifest.c91790dd83c63cba35167ed30776d741.js",
+    "service-worker.js": "/Antonio-Lucian/service-worker.js",
+    "static/css/main.e951a516.chunk.css.map": "/Antonio-Lucian/static/css/main.e951a516.chunk.css.map",
+    "static/js/2.64ccf118.chunk.js.LICENSE": "/Antonio-Lucian/static/js/2.64ccf118.chunk.js.LICENSE",
+    "static/media/audi.png": "/Antonio-Lucian/static/media/audi.c1144107.png",
+    "static/media/services.css": "/Antonio-Lucian/static/media/back-rotation.9b3259d5.jpeg",
+    "static/media/skills.css": "/Antonio-Lucian/static/media/background-code.c7b5a83e.jpg",
+    "static/media/certificat1.png": "/Antonio-Lucian/static/media/certificat1.86948271.png",
+    "static/media/contact.css": "/Antonio-Lucian/static/media/contact-back3.95d12d3a.jpg",
+    "static/media/count-down.png": "/Antonio-Lucian/static/media/count-down.b705099a.png",
+    "static/media/cover-home.jpeg": "/Antonio-Lucian/static/media/cover-home.6b73c1a6.jpeg",
+    "static/media/exact-time.png": "/Antonio-Lucian/static/media/exact-time.81b3e723.png",
+    "static/media/logo-image.jpg": "/Antonio-Lucian/static/media/logo-image.fa8423ff.jpg",
+    "static/media/work.css": "/Antonio-Lucian/static/media/nasa.30520fad.jpg",
+    "static/media/tip-calculator.png": "/Antonio-Lucian/static/media/tip-calculator.6642fb74.png",
+    "static/media/to-do-list.png": "/Antonio-Lucian/static/media/to-do-list.5106c490.png",
+    "static/media/weather-app.png": "/Antonio-Lucian/static/media/weather-app.c21af6b3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.250b8af2.js",
+    "static/js/2.64ccf118.chunk.js",
+    "static/css/main.e951a516.chunk.css",
+    "static/js/main.4f59724f.chunk.js"
+  ]
+}
