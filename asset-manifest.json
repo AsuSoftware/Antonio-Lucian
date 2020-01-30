@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Antonio-Lucian/static/css/main.e951a516.chunk.css",
-    "main.js": "/Antonio-Lucian/static/js/main.4f59724f.chunk.js",
-    "main.js.map": "/Antonio-Lucian/static/js/main.4f59724f.chunk.js.map",
+    "main.js": "/Antonio-Lucian/static/js/main.63171e77.chunk.js",
+    "main.js.map": "/Antonio-Lucian/static/js/main.63171e77.chunk.js.map",
     "runtime-main.js": "/Antonio-Lucian/static/js/runtime-main.250b8af2.js",
     "runtime-main.js.map": "/Antonio-Lucian/static/js/runtime-main.250b8af2.js.map",
     "static/js/2.64ccf118.chunk.js": "/Antonio-Lucian/static/js/2.64ccf118.chunk.js",
     "static/js/2.64ccf118.chunk.js.map": "/Antonio-Lucian/static/js/2.64ccf118.chunk.js.map",
     "index.html": "/Antonio-Lucian/index.html",
-    "precache-manifest.c91790dd83c63cba35167ed30776d741.js": "/Antonio-Lucian/precache-manifest.c91790dd83c63cba35167ed30776d741.js",
+    "precache-manifest.ff5c71cc854341444b698a4d84b7e4e5.js": "/Antonio-Lucian/precache-manifest.ff5c71cc854341444b698a4d84b7e4e5.js",
     "service-worker.js": "/Antonio-Lucian/service-worker.js",
     "static/css/main.e951a516.chunk.css.map": "/Antonio-Lucian/static/css/main.e951a516.chunk.css.map",
     "static/js/2.64ccf118.chunk.js.LICENSE": "/Antonio-Lucian/static/js/2.64ccf118.chunk.js.LICENSE",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.250b8af2.js",
     "static/js/2.64ccf118.chunk.js",
     "static/css/main.e951a516.chunk.css",
-    "static/js/main.4f59724f.chunk.js"
+    "static/js/main.63171e77.chunk.js"
   ]
 }
